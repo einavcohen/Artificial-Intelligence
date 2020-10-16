@@ -1,4 +1,4 @@
-# Prediction Using Machine Learning Models
-A ML implementation of KNN, Decision Tree and naïve base algorithms.
+# Mushrooms Prediction Using Machine Learning
+ML project which learn and predict whether the mushrooms are poisonous based on their features,
 
-Evaluating the accuracy percentages of the predictions using K-fold cross validation.
+using Python implementation of KNN, Decision Tree and naïve base algorithms.
